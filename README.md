@@ -1,7 +1,8 @@
 # Superstore-Sales-Profit-Analysis-Dashboard
 A Power BI Project
 
-
+## Dataset  
+- <a href="https://github.com/SOUJIT-BAKSHI/Data-Visualizations-/blob/main/US%20Superstore%20data.xls">Dataset view
 
 
 

@@ -2,8 +2,11 @@
 A Power BI Project
 
 ## Dataset  
-- <a href="https://github.com/SOUJIT-BAKSHI/Data-Visualizations-/blob/main/US%20Superstore%20data.xls">Dataset view
-
+- <a href="https://github.com/SOUJIT-BAKSHI/Superstore-Sales-Profit-Analysis-Dashboard/blob/main/Sample%20-%20Superstore.csv">Dataset view
+## Dashboard 
+- <a href="https://github.com/SOUJIT-BAKSHI/Superstore-Sales-Profit-Analysis-Dashboard/blob/main/Superstore%20(1).pdf">Dashboard view
+## PPT 
+- <a href="https://github.com/SOUJIT-BAKSHI/Superstore-Sales-Profit-Analysis-Dashboard/blob/main/Superstore%20_PPT.pdf">PPT Summary 
 
 
 🟪 Objective of the Project
